@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "e51220af0b49533c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2361ee32f7072158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "709ad8b55b789a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MidTermPress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c8f9b5b2ae8911c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94179f564a319eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0483abcf1d0c3765",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3f11752712a5c43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4422916e583ee32",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9aac9bd9008497a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfec92e45766801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69e2819631f15c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MidTermPress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dfba17360b7eab9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MidTermPress.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4c260989242288b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "910c1aac74ce45c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MidTermPress.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "709ad8b55b789a90",
+  "lastOpenFiles": [
+    "Ενδιάμεση παρουσίαση HCI.md",
+    "images.png",
+    "image.md",
+    "!images.png.md",
+    "![[images.png.md"
+  ]
+}
