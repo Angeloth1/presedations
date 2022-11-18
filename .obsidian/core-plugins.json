@@ -11,11 +11,14 @@
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "starred",
   "markdown-importer",
+  "zk-prefixer",
   "outline",
   "word-count",
   "slides",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]

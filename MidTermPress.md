@@ -1,7 +1,7 @@
 # Ενδιάμεση παρουσίαση [hci](https://github.com/courses-ionio/hci)
 ## Άγγελος Θώμος [Π2019095](https://github.com/Angeloth1)
 ### [My team](https://github.com/Second-Time-Is-The-Charm)
-[ReadMe.md](https://github.com/Angeloth1/hci/tree/2019095/projects/2019095)
+#### [ReadMe.md](https://github.com/Angeloth1/hci/tree/2019095/projects/2019095)
 ---
 #### Λίγα λόγια για μάθημα
 Στο μάθημα αυτό χρειάστηκε να μάθω εώς τώρα πολλές νέες, για έμενα, τεχνολογίες. Όπως για παράδειγμα τον τύπο αρχείου [md](https://daringfireball.net/projects/markdown/syntax) όπου και χρησιμοποίησα για την δημιουργία αύτης της παρουσίασης.  
